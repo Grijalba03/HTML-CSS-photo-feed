@@ -1,0 +1,52 @@
+.navbar{ 
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+} 
+
+body{ 
+    background-color: lightgrey;
+}
+
+.card { 
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.card-body { 
+    background-color: white;
+    display: inline-block;
+    width: 600px; 
+    height: auto;
+    margin-top: 30px ;
+    margin-bottom: 30px;
+   
+}
+
+.card-title { 
+    float: left;
+}
+
+h5 {
+    display: block;
+    font-size: 1em;
+    margin-block-start: 1.67em;
+    margin-block-end: 1.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    
+}
+.card-title2 { 
+    float:right
+}
+
+
+
+img { 
+    
+    width: 100%;
+    
+}
+
